@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Who killed U.N.Owen",
+  "base_artist": "Liz Triangle",
+  "createdAt": "2026-03-23T10:34:47.165924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "who killed U.N.Owen",
+      "artist": "Liz Triangle",
+      "has_synced": true,
+      "path": "select/01_who_killed_U.N.Owen_Liz_Triangle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who Killed U.N.Owen",
+      "artist": "Liz triangle りすとら",
+      "has_synced": true,
+      "path": "select/02_Who_Killed_U.N.Owen_Liz_triangle_りすとら.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "who killed U.N.Owen",
+      "artist": "Liz Triangle (リズ トライアングル)",
+      "has_synced": true,
+      "path": "select/03_who_killed_U.N.Owen_Liz_Triangle_(リズ_トライアングル).lrc"
+    }
+  ]
+}
